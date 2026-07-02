@@ -8,7 +8,7 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848 # Nacos 服务器地址
-        # namespace: public           # 命名空间，默认是 public
+        namespace: public           # 命名空间，默认是 public
         group: DEFAULT_GROUP        # 分组，默认是 DEFAULT_GROUP
       config:
         server-addr: localhost:8848 # Nacos 服务器地址
