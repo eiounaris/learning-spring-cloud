@@ -1,4 +1,4 @@
-package com.eiou.user;
+package com.eiou.userservice;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

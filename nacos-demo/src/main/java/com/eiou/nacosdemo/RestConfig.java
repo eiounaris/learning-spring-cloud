@@ -1,4 +1,4 @@
-package com.eiou;
+package com.eiou.nacosdemo;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
