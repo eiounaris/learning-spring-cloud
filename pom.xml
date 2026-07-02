@@ -14,6 +14,7 @@
         <module>user-service</module>
         <module>nacos-demo</module>
         <module>gateway</module>
+        <module>openfeign-demo</module>
     </modules>
 
     <properties>

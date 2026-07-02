@@ -1,4 +1,4 @@
-package com.eiou.userservice;
+package com.eiou.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -8,7 +8,9 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class User {
+
     private Long id;
     private String name;
-    private int age;
+    private Integer age;
+
 }

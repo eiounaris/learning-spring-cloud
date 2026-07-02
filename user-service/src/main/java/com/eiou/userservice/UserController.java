@@ -1,5 +1,6 @@
 package com.eiou.userservice;
 
+import com.eiou.common.User;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
