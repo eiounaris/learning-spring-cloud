@@ -9,6 +9,6 @@ docker run --name nacos-standalone \
     -p 8080:8080 \
     -p 8848:8848 \
     -p 9848:9848 \
-    -d nacos/nacos-server:latest
+    -d nacos/nacos-server:v2.5.2
 
 ```
